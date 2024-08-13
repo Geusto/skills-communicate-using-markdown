@@ -5,3 +5,7 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![Image of Gon Freecs](https://upload.wikimedia.org/wikipedia/en/a/a1/GonFreecsmanga.png)
+
+``` javascript
+let x = 'hola mundo!!'
+```
